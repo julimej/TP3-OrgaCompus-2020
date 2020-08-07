@@ -50,7 +50,7 @@
 		"control_size": 4,
 		"control": [
 			{"aluop": 0, "out": {"Operation": 2}},
-			{"aluop": 1, "out": {"Operation": 6}},
+      {"aluop": 1, "out": {"Operation": 6}},
 			{"aluop": 2, "func": 16, "out": {"Operation": 10}},
 			{"aluop": 2, "func": 18, "out": {"Operation": 11}},
 			{"aluop": 2, "func": 24, "out": {"Operation": 8}},
