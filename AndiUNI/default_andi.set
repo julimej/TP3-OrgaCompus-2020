@@ -119,9 +119,6 @@
             },
             "desc": "$t1 = $t2 & $t3"
         },
-        /**
-        Instruccion agregada
-        */
         "andi": {
             "type": "I",
             "args": [
@@ -137,7 +134,6 @@
             },
             "desc": "rs = rt + imm"
         },
-        /***********************************/
         "or": {
             "type": "R",
             "args": [
@@ -390,9 +386,6 @@
             "ALUSrc": 0,
             "MemToReg": 0
         },
-        /**
-        OPCODE agregado
-        */
         "3": {
             "RegDst": 0,
             "RegWrite": 1,
@@ -400,7 +393,6 @@
             "ALUSrc": 1,
             "MemToReg": 0
         },
-        /**********************/
         "8": {
             "RegDst": 0,
             "RegWrite": 1,
